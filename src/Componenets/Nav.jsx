@@ -13,9 +13,6 @@ const Navbar = () => {
         </div>
         <div className="navbar-right">
           <a href="" className="nav-link">Leaderboard</a>
-          <a href="">
-            <button className="login-button">Login/Signup</button>
-          </a>
         </div>
       </nav>
     </div>
